@@ -66,4 +66,19 @@ IoT개발자 과정 사전학습 리포지토리
      **, ~~, __, htnl u 태그 사용, i 이탤릭 사용
      ```
      - 문장을 작성할 시 **강조**, ~~취소선~~, __강조2__, <u>밑줄</u>, <i>이탤릭</i> 을 사용 할 수 있습니다.
+    
+
+
+
+
+    - 깃허브 로컬리포지토리 생성
+      1. git for windows 설치
+         - https://git-scm.com/ 에서 `Install fow Window` 클릭
+         - Git for windows/x64 Setup 클릭
+         - Git 설치 옵션은 기본 그대로 사용 가능(변경하지 말것)
+         - cmd 또는 powershell 에서 `git --version`, `git -v`로 확인
+      2. Github Desktop 설치
+        - https://desktop.github.com/download/ 에서 다운로드 클릭, 설치
+        - 계정 브라우저 연동   
+      3. 리포지토리 클론
        
